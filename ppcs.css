@@ -1,0 +1,12 @@
+.smile{
+	opacity:0;
+}
+.sad{
+	opacity:0;
+}
+.MEH{
+	opacity:0;
+}
+*{
+	background: red;
+}
